@@ -37,8 +37,8 @@ html{
 }
 
 #logo img{
-    height: 63px;
-    margin: 27px 44px ;
+    height: 78px;
+    margin: 29px 46px ;
 }
 
 /* Navbar : List styling */
@@ -70,7 +70,7 @@ html{
     display: flex;
     flex-direction: column;
     padding: 3px 200px;
-    height: 444px;
+    height: 454px;
     justify-content: center;
     align-items: center;
 }
